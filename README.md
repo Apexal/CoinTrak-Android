@@ -1,4 +1,4 @@
-# CoinTrak-Android
+# CoinTrak
 Live Cryptocurrency Ticker, Calculator, and Investment Tracker for iOS/Android
 [Website](http://cointrak.me)
 
